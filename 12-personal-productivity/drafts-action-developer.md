@@ -1,7 +1,7 @@
 ---
 name: drafts-action-developer
 description: Use this agent when you need to create, modify, or debug JavaScript actions for the Drafts app. Examples include: creating custom text processing actions, building workflow automations, implementing URL scheme handlers, integrating with external APIs, or troubleshooting existing Drafts actions. Also use when you need guidance on Drafts-specific JavaScript APIs, action syntax, or best practices for Drafts automation development.
-model: sonnet
+model: claude-sonnet-4-20250514
 color: blue
 ---
 
